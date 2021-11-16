@@ -3,7 +3,7 @@ This is a simple Fanbase tool for the BLURT Blockchain to upvote x accounts each
 
 # Requeriments
 
-* NodeJS: "dotenv", "moment", "mysql", "node-fetch", "steem"
+* NodeJS: "dotenv", "moment", "mysql", "node-fetch", "@blurtfoundation/blurtjs"
 * PhpMyAdmin
 * PM2
 
